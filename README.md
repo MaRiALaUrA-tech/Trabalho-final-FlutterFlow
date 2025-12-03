@@ -50,7 +50,7 @@
 
 ## 🌐 **Link do Deploy**
 
-*https://trabalho-senai-f67g.onrender.com/aula/swagger-ui/index.html#/usuario-controller/login*
+*https://trabalho-senai-f67g.onrender.com/aula/swagger-ui/index.html?authuser=2*
 
 ---
 
